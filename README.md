@@ -16,4 +16,5 @@ Author - AUM
 6.git status <!--to check the status of the repo--> untracked, modified, staged, unmodified <br>
 7.git add filename / git add .<!--add the file and the files will the staged to commit--> <br>
 8.git commit -m "message"  / git commit -a <!--commit into the github--> <br>
+9.git push origin main <!--to upload the code from the local to github--> <br>
 
