@@ -9,4 +9,4 @@ Author - AUM
 4.git config --list <br>
 
 
-5.git clone url   //git clone on local machine
+5.git clone url   <!-clone the repo into local machine->
