@@ -1,3 +1,4 @@
 # learngit
-This is my sample repo
-#Author - AUM
+This is my sample repo.
+<br>
+Author - AUM
