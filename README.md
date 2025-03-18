@@ -2,7 +2,7 @@
 
 Full documentation of the git and github:
 
-https://youtu.be/Ez8F0nW6S-w?si=z9lBHBozaAcWKB2e-Apna college
+https://youtu.be/Ez8F0nW6S-w?si=z9lBHBozaAcWKB2e -Apna college
 https://youtu.be/q8EevlEpQ2A?si=0k-b_M6B8raa09hQ -chai with code
 https://docs.chaicode.com/branches-in-git/
 
@@ -85,3 +85,18 @@ Author - AUM
     37.git log - This command shows the commit history for the current branch.
 
     38.git switch -c dark-mode - This command creates a new branch called dark-mode. the -c flag is used to create a new branch.
+
+    39.git stash  
+
+    40.git stash apply
+
+    41.git stash pop
+
+    42.git tag tagname
+
+# reabse concept
+    mostly done in the sub branch 
+
+# reflog concept
+    full history including commit , rebase, stach etc
+    
