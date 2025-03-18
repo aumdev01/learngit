@@ -1,6 +1,7 @@
 # learngit
 
-This is my sample repo.
+Full documentation of the git and github
+
 <br>
 Author - AUM
 
@@ -55,4 +56,3 @@ Author - AUM
     26.git reset --hard commithash <!--using hard will edit in the vs code too-->
 
 # fork - rough copy
-
